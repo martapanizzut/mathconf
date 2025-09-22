@@ -73,11 +73,11 @@ you can build your website and look at it locally:
 
 ``` console
 $ zs build  # files are written to .pub
-$ zs serve
+$ zs serve  # run local HTTP server
 INFO[0000] zs 0.0.0@HEAD server listening on :8000
 ```
 
-Open your web browser and point to to `localhost:8000` to view your page.
+Open your web browser and point it to `localhost:8000` to view your page.
 
 ## Publishing
 
@@ -105,7 +105,6 @@ repository of this tutorial, you will already have a GitHub action set
 up which will publish your page on every commit that you push to the
 repository. It only requires two *repository secrets* to be operational:
 the page key and the access token.
-
 In your repository "Settings" under "Secrets and Variables" you have to
 create the secrets `PAGE_KEY` and `ACCESS_TOKEN` with the values you get
 by email upon registration. They will be similar to the ones shown in
@@ -114,3 +113,9 @@ them available to scripts running as Actions on behalf of you, e.g., when
 you push a commit.
 
 ![Adding a repository secret](secret.png)
+
+Now you're all set! Whenever you push to your `main` branch now, the GitHub
+Action will be triggered and hopefully succeed in deploying the website and
+making it publicly available immediately.
+
+![Successful action](success.png)
