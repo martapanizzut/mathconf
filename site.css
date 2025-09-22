@@ -1,0 +1,164 @@
+body {
+  padding: 0 0;
+  margin: 0 0;
+  background-color: #f0f0ff;
+  font-family: "Source Sans 3", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+#navbar {
+  display: flex;
+  flex-flow: row;
+  background: rgba(30,50,100,0.5);
+}
+
+#navbar #home-link {
+  display: block;
+  color: #ccc;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+#navbar ul {
+  margin: 0 0;
+  margin-left: auto;
+  padding: 0 0;
+  display: flex;
+  align-items: row;
+  justify-content: end;
+  list-style: none;
+  overflow: hidden;
+}
+
+#navbar li a {
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  color: #ccc;
+  text-decoration: none;
+  font-weight: 600;
+  border: 1px solid transparent;
+  border-top: 0px;
+  border-bottom: 0px;
+}
+
+#navbar li a:hover {
+  background-color: rgba(30,40,80,0.9);
+  transition: .1s linear;
+  border-color: #ccc;
+}
+
+#header {
+  width: 100%;
+  height: 30vh;
+  background: url(view.webp) no-repeat top center;
+  background-size: 100% auto;
+  display: flex;
+  flex-flow: column;
+}
+
+#banner {
+  width: 100%;
+  flex-grow: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#banner #title {
+  font-size: 3em;
+  font-weight: 600;
+  padding: 0.3em 1.5em;
+  background-color: rgba(30,40,80,0.9);
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  color: #ccc;
+}
+
+#content {
+  width: 90vw;
+  margin: 0 auto;
+  padding-top: 1em;
+  flex-grow: 1;
+  text-align: justify;
+}
+
+#footer {
+  color: #555;
+  font-size: small;
+  margin: 0 auto;
+  text-align: center;
+  padding-bottom: 3px;
+}
+
+div.highlight {
+  display: block;
+  width: 100%;
+  font-size: 2em;
+  font-weight: 600;
+  color: rgb(30,50,100);
+  text-align: center;
+  margin: 1em 0;
+}
+
+/* Our markdown processor inserts a lot of empty <p> elements which can
+ * mess up flexbox layout. This effectively removes them. */
+p:empty {
+  display: none;
+}
+
+h2 {
+  border-bottom: 1px solid black;
+}
+
+a {
+  color: rgb(30,50,100);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline 2px #ccc;
+}
+
+div.side-by-side {
+  flex-basis: 45%;
+}
+
+/* On small screens */
+@media only screen and (max-width: 768px) {
+  /* Navigation becomes vertical */
+  #header {
+    background-image: none;
+    height: auto;
+  }
+
+  #navbar {
+    flex-direction: column;
+  }
+
+  #navbar ul {
+    flex-direction: column;
+    margin: 0;
+  }
+
+  #navbar li {
+    width: 100%;
+  }
+
+  #banner #title {
+    margin-top: 1em;
+    font-size: 2em;
+  }
+
+  /* Sections are never side by side */
+  div.side-by-side {
+    flex-basis: 95%;
+  }
+}

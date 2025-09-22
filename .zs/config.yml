@@ -1,0 +1,10 @@
+---
+title: How to create a page
+description: How to create a page on mathconf.eu
+keywords: github actions, zs, mathconf, static site generator, mathematics, conference, web hosting
+
+extensions:
+  - typography
+  - fences
+  - embed
+  - highlighting

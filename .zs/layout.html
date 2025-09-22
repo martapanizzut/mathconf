@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>{{ title }} — {{ page-title }}</title>
+  <meta name="keywords" content="{{ keywords }}">
+  <meta name="description" content="{{ description }}">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <link rel="icon" type="image/png" href="calm.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="site.css">
+</head>
+
+<body>
+<div id="header">
+<div id="navbar">
+  <a id="home-link" href="index.html">{{ title }}</a>
+  <ul>
+    {{ include .zs/menu.html }}
+  </ul>
+</div>
+<div id="banner">
+<span id="title">{{ page-title }}</span>
+</div>
+</div>
+<div id="content">
+  {{ content }}
+</div>
+<div id="footer">
+  {{ include .zs/footer.html }}
+</div>
+</body>
+</html>
