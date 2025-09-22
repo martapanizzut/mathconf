@@ -1,0 +1,30 @@
+name: publish
+on:
+  push:
+    branches: [ "main" ]
+  workflow_dispatch:
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v4
+
+      - name: 'Install Go'
+        uses: actions/setup-go@v5
+
+      - name: 'Install curl'
+        run: sudo apt install -y curl
+
+      - name: 'Install zs'
+        run: go install go.mills.io/zs@latest
+
+      - name: 'Build website using zs'
+        run: $HOME/bin/zs build
+
+      - name: 'Pack the website'
+        run: tar -cvf tar -zcvf "${{ secrets.PAGE_KEY }}.tar.gz" -C .pub .
+
+      - name: 'Upload to server'
+        run: curl -F "token=${{ secrets.ACCESS_TOKEN }}" -F "archive=@${{ secrets.PAGE_KEY }}.tar.gz" "https://mathconf.eu/publish/${{ secrets.PAGE_KEY }}"
