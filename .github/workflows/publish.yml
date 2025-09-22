@@ -21,7 +21,7 @@ jobs:
         run: go install go.mills.io/zs@latest
 
       - name: 'Build website using zs'
-        run: $HOME/bin/zs build
+        run: $HOME/go/bin/zs build
 
       - name: 'Pack the website'
         run: tar -cvf tar -zcvf "${{ secrets.PAGE_KEY }}.tar.gz" -C .pub .
