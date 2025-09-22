@@ -27,4 +27,4 @@ jobs:
         run: tar -zcvf "${{ secrets.PAGE_KEY }}.tar.gz" -C .pub .
 
       - name: 'Upload to server'
-        run: curl -F "token=${{ secrets.ACCESS_TOKEN }}" -F "archive=@${{ secrets.PAGE_KEY }}.tar.gz" "https://mathconf.eu/publish/${{ secrets.PAGE_KEY }}"
+        run: curl --fail-with-body -F "token=${{ secrets.ACCESS_TOKEN }}" -F "archive=@${{ secrets.PAGE_KEY }}.tar.gz" "https://mathconf.eu/publish/${{ secrets.PAGE_KEY }}"
