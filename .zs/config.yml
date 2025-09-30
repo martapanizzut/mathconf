@@ -1,7 +1,7 @@
 ---
-title: Sample page
-description: How to create a page on mathconf.eu
-keywords: github actions, zs, mathconf, static site generator, mathematics, conference, web hosting
+title: Algorithmic, discrete and tropical geometry
+description: Workshop on recent developments in algorithmic, discrete and tropical geometry
+keywords: algorithms, discerete geometry, tropical geometry, michael joswig
 
 extensions:
   - typography
