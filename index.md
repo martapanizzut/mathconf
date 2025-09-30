@@ -31,4 +31,4 @@ We will also celebrate the [60th birthday of Michael Joswig](https://page.math.t
 ## Organizing committee
 * [Georg Loho (FU Berlin and University of Twente)](https://lohomath.github.io/)
 * [Marta Panizzut (UiT, Norway)](https://martapanizzut.github.io/)
-* [Benjamin Shröter (KTH Stockholm)](https://people.kth.se/~schrot/)
+* [Benjamin Schröter (KTH Stockholm)](https://people.kth.se/~schrot/)
