@@ -127,6 +127,10 @@ a:hover {
   text-decoration: underline 2px #ccc;
 }
 
+div.side-by-side-container {
+  display: flex; flex-flow: row wrap; justify-content: space-between;
+}
+
 div.side-by-side {
   flex-basis: 45%;
 }
