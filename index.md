@@ -1,4 +1,4 @@
-page-title: Developements in Algorithmic, Discrete and Tropical Geometry
+page-title: Developments in Algorithmic, Discrete and Tropical Geometry
 ---
 
 # February 02 -- 04, 2026 
