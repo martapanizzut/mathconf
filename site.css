@@ -166,3 +166,20 @@ div.side-by-side {
     flex-basis: 95%;
   }
 }
+
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 80%;
+}
+
+td, th {
+  border: 1px solid #D1D2FF;
+  text-align: center;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #D1EFFF;
+}
