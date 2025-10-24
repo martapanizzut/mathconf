@@ -57,7 +57,7 @@ body {
 #header {
   width: 100%;
   height: 30vh;
-  background: url(polytopes.webp) no-repeat top center;
+  background: url(figure.webp) no-repeat top center;
   background-size: 100% auto;
   display: flex;
   flex-flow: column;
