@@ -1,7 +1,8 @@
 page-title: Developments in Algorithmic, Discrete and Tropical Geometry
 ---
+:::{style="width: 70%; margin: 0 auto;"}
 
-# Program
+## Program
 
 This is a preliminary version of the schedule.  Titles and abstracts of the talks will be posted in due time. 
 

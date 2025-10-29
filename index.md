@@ -1,12 +1,23 @@
 page-title: Developments in Algorithmic, Discrete and Tropical Geometry
 ---
 
+:::{style="width: 70%; margin: 0 auto;"}
+
 # February 02 -- 04, 2026 
 ## Zuse Institute Berlin
 
+:::{.side-by-side-container}
+:::{.side-by-side}
 The aim of this workshop is to tighten the connection between leading experts and young scientists in the multiple related areas of discrete, polyhedral and combinatorial geometry including tropical geometry, software development and applications.
 
-### We will also celebrate the [60th birthday of Michael Joswig](https://page.math.tu-berlin.de/~joswig/) who contributed significantly in all of these mathematical areas. 
+**We will also celebrate the [60th birthday of Michael Joswig](https://page.math.tu-berlin.de/~joswig/) who contributed significantly in all of these mathematical areas.**
+:::
+
+:::{.side-by-side .michael}
+![Michael Joswig](michael.png)
+:::
+:::
+
 
 :::{.side-by-side-container}
 :::{.side-by-side}
@@ -29,7 +40,19 @@ The aim of this workshop is to tighten the connection between leading experts an
 :::
 :::
 
+:::{.side-by-side-container}
+:::{.side-by-side}
 ## Organizing committee
 * [Georg Loho (FU Berlin and University of Twente)](https://lohomath.github.io/)
 * [Marta Panizzut (UiT, Norway)](https://martapanizzut.github.io/)
 * [Benjamin Schröter (KTH Stockholm)](https://people.kth.se/~schrot/)
+
+We thank Tobias Boege for the support with the website. 
+:::
+
+:::{.side-by-side}
+## Funding 
+We thankfully acknowledge the supporty by [MATH+](https://mathplus.de/). 
+![MATH+ Logo](Math+Logo.png)
+:::
+:::

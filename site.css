@@ -135,6 +135,10 @@ div.side-by-side {
   flex-basis: 45%;
 }
 
+div.michael img {
+  max-height: 200px;
+}
+
 /* On small screens */
 @media only screen and (max-width: 768px) {
   /* Navigation becomes vertical */
