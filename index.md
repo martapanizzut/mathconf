@@ -47,7 +47,7 @@ The aim of this workshop is to tighten the connection between leading experts an
 * [Marta Panizzut (UiT, Norway)](https://martapanizzut.github.io/)
 * [Benjamin Schröter (KTH Stockholm)](https://people.kth.se/~schrot/)
 
-We thank Tobias Boege for the support with the website. 
+We thank Tobias Boege for the help with the website. 
 :::
 
 :::{.side-by-side}
