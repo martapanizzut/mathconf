@@ -33,9 +33,9 @@ The aim of this workshop is to tighten the connection between leading experts an
 :::{.side-by-side}
 ## Special Guests
 * [Stephane Gaubert (INRIA Paris)](http://www.cmap.polytechnique.fr/~gaubert/)
-* [Ewgenij Gawrilow (TomTom Berlin)]()
+* [Ewgenij Gawrilow (Mapbox)]()
 * [Andreas Paffenholz (TU Darmstadt)](https://www2.mathematik.tu-darmstadt.de/~paffenholz/)
-* [Bernd Sturmfels (MPI MiS Leipzig and UC Berkley)](https://math.berkeley.edu/~bernd/)
+* [Bernd Sturmfels (MPI MiS Leipzig and UC Berkeley)](https://math.berkeley.edu/~bernd/)
 * [Günter Ziegler (FU Berlin)](https://www.fu-berlin.de/en/einrichtungen/praesidium/praesident/index.html)
 :::
 :::
