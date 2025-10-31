@@ -53,6 +53,7 @@ We thank Tobias Boege for the help with the website.
 :::{.side-by-side}
 ## Funding 
 We thankfully acknowledge the supporty by [MATH+](https://mathplus.de/). 
+
 ![MATH+ Logo](Math+Logo.png)
 :::
 :::
