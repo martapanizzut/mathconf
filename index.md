@@ -22,9 +22,9 @@ The aim of this workshop is to tighten the connection between leading experts an
 :::{.side-by-side-container}
 :::{.side-by-side}
 ## Speakers
-* [Laura Casabella (MPI MiS Leizig)](https://sites.google.com/view/lauracasabella)
+* [Laura Casabella (Goethe-Universität Frankfurt)](https://sites.google.com/view/lauracasabella)
 * [Katharina Jochemko (KTH Stockholm)](https://people.kth.se/~jochemko/) 
-* [Olivia Roehrig (ZIB)](https://iol.zib.de/team/olivia-roehrig.html)
+* [Olivia Röhrig (ZIB)](https://iol.zib.de/team/olivia-roehrig.html)
 * [Kris Shaw (University of Oslo)](https://www.mn.uio.no/math/english/people/aca/krisshaw/)
 * [Christian Stump (Ruhr-Universität Bochum)](https://math.ruhr-uni-bochum.de/fakultaet/arbeitsbereiche/algebra/research-team-stump/team/prof-dr-christian-stump/)
 * [Thorsten Theobald (Goethe-Universität Frankfurt)](https://www.math.uni-frankfurt.de/~theobald/)
