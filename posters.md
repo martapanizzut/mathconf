@@ -10,13 +10,31 @@ The classical flatness theorem states that the lattice width of a convex body wi
 
 
 **Kyle Huang (BTU Cottbus) - UniTriSat: Unimodular triangulations via SATISFIABILITY**
-Abstract: Given a lattice polytope, it is natural to ask if it has a unimodular triangulation. Unimodular triangulations have connections to toric geometry, tropical geometry, and enumerative combinatorics, while also being an interesting property in their own right, for various classes of lattice polytopes. With the Julia package UniTriSat, we present a new algorithm for computing unimodular triangulations and regular unimodular triangulations, via translation to a SATISFIABILITY problem. A QuickStart guide can be found at [github.com/krhuang/UniTriSat](github.com/krhuang/UniTriSat). 
+Abstract: Given a lattice polytope, it is natural to ask if it has a unimodular triangulation. Unimodular triangulations have connections to toric geometry, tropical geometry, and enumerative combinatorics, while also being an interesting property in their own right, for various classes of lattice polytopes. With the Julia package UniTriSat, we present a new algorithm for computing unimodular triangulations and regular unimodular triangulations, via translation to a SATISFIABILITY problem. A QuickStart guide can be found at [github.com/krhuang/UniTriSat](https://github.com/krhuang/UniTriSat). 
+
+**Aryaman Jal (Ruhr-Uni­ver­si­tät Bo­chum) - Rook matroids and log-concavity of P-Eulerian polynomials**
+
+We introduce a new family of matroids whose bases correspond to certain restricted rook placements on skew-shaped boards. We study these rook matroids and relate them precisely to transversal matroids, lattice path matroids, and positroids. We end by relating these objects to linear extensions of posets and by doing so, make progress on the log-concavity consequence of the Neggers-Stanley conjecture in algebraic combinatorics.
+
+**Niels Lindner (ZIB) - Discrete Geometry and Tropical Convexity for Public Transport Optimization**
+
+Planning and operating public transportation systems is an intricate task. Solving the resulting scheduling and routing problems on a real-world scale requires careful mathematical modeling and tailored algorithmic techniques. We will present approaches to passenger routing and timetable optimization that are inspired by discrete-geometric methods, making use of polytropes, zonotopes, and tropical polynomials.
 
 
+**Dante Luber (Padeborn) - Minuscule Coxeter Dressians**
+
+Matroids admit a characterization as (0,1)-polytopes with edge directions in the type A root system. In this case, edges capture "symmetric exchange" between bases. Regular matroidal subdivisions of (Type A)-matroid polytopes are well studied. In particular, they are closely related to a tropical prevariety known as the Dressian, which is a subfan of the secondary fan of a given matroid polytope. Coxeter matroids generalize usual matroids, and can be characterized in terms of polytopes with edge directions in root systems beyond type A. Coxeter matroids which are said to be "minuscule" and possess the "strong exchange" property are the most honest incarnations of usual matroids outside type A. We will discuss subdivisions of minuscule Coxeter matroid polytopes, and study tropical prevarieties which (in most cases) capture subdivisions into cells which possess the strong exchange property.
 
 **Francesco Nowell (TU Berlin) - Polyhedral Geometry of Max-Linear Conditional Independence**
 
 The conditional independence (CI) relation of a distribution in a max-linear Bayesian network is fully determined by the combinatorics of critical paths in the underlying weighted graph. We call these CI structures maxoids, and prove that every maxoid can be obtained from a transitively closed weighted DAG. We show that the stratification of generic weight matrices by their maxoids yields a polyhedral fan which is the normal fan of the Minkowski sum of the Newton polytopes of path polynomials in the graph. The derived constructions and results form the basis for computational approaches to problems of enumeration and conditional independence implication.
+
+**Arnau Padrol (Universitat de Barcelona) - The graph of (implicit) edge dependencies and indecomposability**
+
+A polytope is called indecomposable if it cannot be expressed (non-trivially) as a Minkowski sum of other polytopes. This poster introduces the graph of (implicit) edge dependencies and uses it to state a new indecomposability criterion that unifies and generalizes most of the previous techniques. One of our main applications is providing new indecomposable deformed permutahedra that are not matroid polytopes.
+
+
+
 
 **Diego A. Robayo Bargans (RPTU Kaiserslautern) - Enumeration of geometric Weierstrass points of metric graphs**
 
