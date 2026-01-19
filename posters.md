@@ -10,7 +10,8 @@ The classical flatness theorem states that the lattice width of a convex body wi
 
 
 **Kyle Huang (BTU Cottbus) - UniTriSat: Unimodular triangulations via SATISFIABILITY**
-Abstract: Given a lattice polytope, it is natural to ask if it has a unimodular triangulation. Unimodular triangulations have connections to toric geometry, tropical geometry, and enumerative combinatorics, while also being an interesting property in their own right, for various classes of lattice polytopes. With the Julia package UniTriSat, we present a new algorithm for computing unimodular triangulations and regular unimodular triangulations, via translation to a SATISFIABILITY problem. A QuickStart guide can be found at [github.com/krhuang/UniTriSat](https://github.com/krhuang/UniTriSat). 
+
+Given a lattice polytope, it is natural to ask if it has a unimodular triangulation. Unimodular triangulations have connections to toric geometry, tropical geometry, and enumerative combinatorics, while also being an interesting property in their own right, for various classes of lattice polytopes. With the Julia package UniTriSat, we present a new algorithm for computing unimodular triangulations and regular unimodular triangulations, via translation to a SATISFIABILITY problem. A QuickStart guide can be found at [github.com/krhuang/UniTriSat](https://github.com/krhuang/UniTriSat). 
 
 **Aryaman Jal (Ruhr-Uni­ver­si­tät Bo­chum) - Rook matroids and log-concavity of P-Eulerian polynomials**
 
