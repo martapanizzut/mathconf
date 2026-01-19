@@ -42,7 +42,7 @@ page-title: Developments in Algorithmic, Discrete and Tropical Geometry
     <td> 16:00-17:00 </td> <td> <a href="posters.html">Poster session</a> </td> <th> Gawrilow + more stories  </th> <td> </td>
   </tr>
     <tr>
-    <td> 17:00-18:00 </td> <td> Poster session </td> <td> </td> <td> </td>
+    <td> 17:00-18:00 </td> <td> <a href="posters.html">Poster session</a> </td> <td> </td> <td> </td>
   </tr>
     <tr>
     <td> 19:00- </td> <td> </td> <td> Conference dinner </td> <td> </td>

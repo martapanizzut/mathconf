@@ -2,7 +2,7 @@ page-title: Developments in Algorithmic, Discrete and Tropical Geometry
 ---
 :::{style="width: 70%; margin: 0 auto;"}
 
-## Titles and abstracts of poster presentations'
+## Titles and abstracts of poster presentations
 
 **Ansgar Freyer (FU Berlin) - Bounds on the lattice width of convex bodies with few interior points**
 
