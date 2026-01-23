@@ -49,7 +49,7 @@ A polytope is called indecomposable if it cannot be expressed (non-trivially) as
 
 A classical result states that on a smooth algebraic curve of genus $g$ the number of Weierstrass points, counted with multiplicity, is g^3-g. We use tropical covers to introduce the notion of geometric Weierstrass points of metric graphs and show that a generic metric graph of genus g has g^3-g geometric Weierstrass points counted with multiplicity. The employed methods also provide a new proof of the existence of Weierstrass points on metric graphs of genus bigger than or equal to 2. 
 
-**Leonard Schmitz - Signature tensors in OSCAR**
+**Leonard Schmitz (TU Berlin) - Signature tensors in OSCAR**
 
 We introduce signatureTensors, a new package for computing signature
 tensors of paths and membranes in the open-source computer algebra system
