@@ -8,6 +8,11 @@ page-title: Developments in Algorithmic, Discrete and Tropical Geometry
 
 The classical flatness theorem states that the lattice width of a convex body without interior lattice points is bounded by a constant depending only on the dimension. Similarly, a convex body with volume at most 1 is known to have bounded lattice width. Our goal is to bridge these two problems by studying bounds on the lattice width of convex bodies with a bounded, but positive, number of interior lattice points. While there are good asymptotic bounds available, there is little knowledge about the exact values of the upper bounds in such problems. In the plane, the flatness problem was fully settled by Hurkens, while Makai and Fejes Toth solved the volumetric problem. We show that the lattice width of a planar convex body with at most one interior lattice point is uniquely maximized by the third dilate of an empty lattice triangle. As a corollary, we obtain an isominwidth inequality for the lattice point enumerator. That is, among convex bodies that contain the origin in their interior, the ratio w^2 / i, where w is the lattice width and i is the number of interior points, is maximized by the third dilate of an empty triangle. This is joint work with Gennadiy Averkov, Giulia Codenotti and Kyle Huang.
 
+**Oskar Henriksson (MPI CBG) - Tropical root bounds and homotopies**
+
+Accurate upper bounds on the number of roots of a polynomial system play a key role in numerical algebraic geometry. We develop a tropical root-counting strategy for sharpening the classical BKK bound for parametrized polynomial systems with dependencies among the coefficients, which also gives an algorithm for constructing generalized polyhedral homotopies. As a case study, we use steady state systems from chemical reaction network theory, for which our tropical root bounds can be shown to be generically sharp. This is based on joint works with Elisenda Feliu, Paul Helminck, Yue Ren, Benjamin Schröter and Máté Telek.
+
+
 
 **Kyle Huang (BTU Cottbus) - UniTriSat: Unimodular triangulations via SATISFIABILITY**
 
