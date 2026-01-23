@@ -12,7 +12,12 @@ The classical flatness theorem states that the lattice width of a convex body wi
 
 Accurate upper bounds on the number of roots of a polynomial system play a key role in numerical algebraic geometry. We develop a tropical root-counting strategy for sharpening the classical BKK bound for parametrized polynomial systems with dependencies among the coefficients, which also gives an algorithm for constructing generalized polyhedral homotopies. As a case study, we use steady state systems from chemical reaction network theory, for which our tropical root bounds can be shown to be generically sharp. This is based on joint works with Elisenda Feliu, Paul Helminck, Yue Ren, Benjamin Schröter and Máté Telek.
 
+**Elena Hoster (Ruhr-Uni­ver­si­tät Bo­chum) - Extending the ab-index**
 
+This poster presents joint work with Christian Stump and Lorenzo Vecchi on the extended ab-index of finite, graded, bounded posets.
+The extended ab-index was introduced by Dorpalen-Barry, Maglione, and Stump as the ab-index weighted by the Poincaré polynomial. It is a polynomial in two noncommuting variables whose coefficients are polynomials with nonnegative integer coefficients, and it specializes to several well-known polynomial invariants of posets, including the classical ab-index, the Poincaré polynomial, the Chow polynomial and the chain polynomial.
+We show that the extended ab-index not only specializes to the classical ab-index, but can also be fully recovered from it via the omega-transformation, thereby proving a conjecture of Dorpalen-Barry, Maglione, and Stump. The omega-transformation generalizes the c-2d-index of an oriented matroid introduced by Billera, Ehrenborg, and Readdy. A variant of this transformation was studied by Ehrenborg for distributive lattices.
+This perspective yields new proofs of structural results for polynomial invariants arising as specializations of the extended ab-index and connects conjectures on real-rootedness within this family.
 
 **Kyle Huang (BTU Cottbus) - UniTriSat: Unimodular triangulations via SATISFIABILITY**
 
