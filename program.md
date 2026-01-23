@@ -4,6 +4,8 @@ page-title: Developments in Algorithmic, Discrete and Tropical Geometry
 
 ## Program
 
+All the talks will take place in the Lecture Hall of The Zuse Institute Berlin. 
+
  <table>
   <tr>
     <th> </th> <th> Monday </th> <th> Tuesday </th> <th> Wednesday </th>
