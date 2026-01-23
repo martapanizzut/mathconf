@@ -35,11 +35,19 @@ The conditional independence (CI) relation of a distribution in a max-linear Bay
 A polytope is called indecomposable if it cannot be expressed (non-trivially) as a Minkowski sum of other polytopes. This poster introduces the graph of (implicit) edge dependencies and uses it to state a new indecomposability criterion that unifies and generalizes most of the previous techniques. One of our main applications is providing new indecomposable deformed permutahedra that are not matroid polytopes.
 
 
-
-
 **Diego A. Robayo Bargans (RPTU Kaiserslautern) - Enumeration of geometric Weierstrass points of metric graphs**
 
 A classical result states that on a smooth algebraic curve of genus $g$ the number of Weierstrass points, counted with multiplicity, is g^3-g. We use tropical covers to introduce the notion of geometric Weierstrass points of metric graphs and show that a generic metric graph of genus g has g^3-g geometric Weierstrass points counted with multiplicity. The employed methods also provide a new proof of the existence of Weierstrass points on metric graphs of genus bigger than or equal to 2. 
+
+**Leonard Schmitz - Signature tensors in OSCAR**
+
+We introduce signatureTensors, a new package for computing signature
+tensors of paths and membranes in the open-source computer algebra system
+OSCAR. Highlights of our work include implementations of Lie group
+barycenters and efficient algorithms for tensor learning. We present
+several practical examples from geometric statistics, feature extraction,
+and computational algebraic geometry. This is joint work with Gabriel
+Riffo (TU Berlin).
 
 
 **Ayush Kumar Tewari (RICAM, Linz) - On the Genus of One Degree of Freedom Planar Linkages via Tropical Geometry**
