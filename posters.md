@@ -27,12 +27,37 @@ Given a lattice polytope, it is natural to ask if it has a unimodular triangulat
 
 We introduce a new family of matroids whose bases correspond to certain restricted rook placements on skew-shaped boards. We study these rook matroids and relate them precisely to transversal matroids, lattice path matroids, and positroids. We end by relating these objects to linear extensions of posets and by doing so, make progress on the log-concavity consequence of the Neggers-Stanley conjecture in algebraic combinatorics.
 
+
+**Katarina Krivokuca (FU Berlin) - Upper Bounds on Covering Minima of Convex Bodies**
+
+The covering minima are classical parameters in the Geometry of Numbers, interpolating between the reciprocal of the lattice width and the covering radius of a convex body. They were introduced by Kannan and Lovasz (1988) and further used to obtain the first polynomial bound on the flatness constant. We give two new upper bounds on intermediate covering minima of general convex bodies, with a view towards a conjecture of Codenotti, Santos and Schymura (2021) on the maximal covering radius of a non-hollow lattice polytope.
+
+
+**Arne Kuhrs (Universität Paderborn) - Buildings and Limits of Tropical Linear Spaces**
+
+Affine Bruhat-Tits buildings are geometric spaces extracting
+the combinatorics of algebraic groups. The building of PGL parametrizes
+flags of subspaces/lattices in or, equivalently, norms on a fixed
+finite-dimensional vector space, up to homothety. The space of seminorms
+compactifies the space of norms and admits a natural surjective
+restriction map from the Berkovich analytification of projective space.
+Inspired by Payne's result that the analytification is the limit of all
+tropicalizations, we show that the space of seminorms is the limit of
+all tropicalized linear subspaces (as the embedding and the dimension of
+the ambient projective space vary). The building is in fact the tropical
+linear space associated with the universal realizable valuated matroid,
+extending a result of Dress and Terhalle. This is based on joint work
+with Luca Battistella, Kevin Kühn, Martin Ulirsch and Alejandro Vargas.
+In work with Kevin Kühn we obtain real analogues of our results,
+employing the theory of real tropicalizations and analytifications.
+
+
 **Niels Lindner (ZIB) - Discrete Geometry and Tropical Convexity for Public Transport Optimization**
 
 Planning and operating public transportation systems is an intricate task. Solving the resulting scheduling and routing problems on a real-world scale requires careful mathematical modeling and tailored algorithmic techniques. We will present approaches to passenger routing and timetable optimization that are inspired by discrete-geometric methods, making use of polytropes, zonotopes, and tropical polynomials.
 
 
-**Dante Luber (Padeborn) - Minuscule Coxeter Dressians**
+**Dante Luber (Universität Paderborn) - Minuscule Coxeter Dressians**
 
 Matroids admit a characterization as (0,1)-polytopes with edge directions in the type A root system. In this case, edges capture "symmetric exchange" between bases. Regular matroidal subdivisions of (Type A)-matroid polytopes are well studied. In particular, they are closely related to a tropical prevariety known as the Dressian, which is a subfan of the secondary fan of a given matroid polytope. Coxeter matroids generalize usual matroids, and can be characterized in terms of polytopes with edge directions in root systems beyond type A. Coxeter matroids which are said to be "minuscule" and possess the "strong exchange" property are the most honest incarnations of usual matroids outside type A. We will discuss subdivisions of minuscule Coxeter matroid polytopes, and study tropical prevarieties which (in most cases) capture subdivisions into cells which possess the strong exchange property.
 
