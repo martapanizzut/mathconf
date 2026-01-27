@@ -84,6 +84,10 @@ several practical examples from geometric statistics, feature extraction,
 and computational algebraic geometry. This is joint work with Gabriel
 Riffo (TU Berlin).
 
+**Pardis Semnani (University of British Columbia) - Characteristic Imsets for Cyclic Linear Causal Models and the Chickering Ideal**
+
+Two directed graphs are called covariance equivalent if they induce the same set of covariance matrices, up to a Lebesgue measure zero set, on the random variables of their associated linear structural equation models. For acyclic graphs, covariance equivalence is characterized both structurally, via essential graphs and characteristic imsets, and transformationally, through sequences of covered edge flips. However, when directed cycles are allowed, only a transformational characterization of covariance equivalence has been discovered. We consider a linear map whose fibers correspond to the sets of graphs with identical characteristic imset vectors, and study the toric ideal associated to its integer matrix. Using properties of this ideal we show that directed graphs with the same characteristic imset vectors are covariance equivalent. In applications, imsets form a smaller search space for solving causal discovery through linear programming. This is joint work with Joseph Johnson.
+
 
 **Ayush Kumar Tewari (RICAM, Linz) - On the Genus of One Degree of Freedom Planar Linkages via Tropical Geometry**
 
